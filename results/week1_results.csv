@@ -1,0 +1,16 @@
+fold,model,accuracy,precision,recall,f1_score
+1,Logistic Regression,1.0,1.0,1.0,1.0
+1,RBF-SVM,1.0,1.0,1.0,1.0
+1,QNN Ideal Simulator,1.0,1.0,1.0,1.0
+2,Logistic Regression,1.0,1.0,1.0,1.0
+2,RBF-SVM,1.0,1.0,1.0,1.0
+2,QNN Ideal Simulator,1.0,1.0,1.0,1.0
+3,Logistic Regression,1.0,1.0,1.0,1.0
+3,RBF-SVM,1.0,1.0,1.0,1.0
+3,QNN Ideal Simulator,1.0,1.0,1.0,1.0
+4,Logistic Regression,1.0,1.0,1.0,1.0
+4,RBF-SVM,1.0,1.0,1.0,1.0
+4,QNN Ideal Simulator,1.0,1.0,1.0,1.0
+5,Logistic Regression,1.0,1.0,1.0,1.0
+5,RBF-SVM,1.0,1.0,1.0,1.0
+5,QNN Ideal Simulator,1.0,1.0,1.0,1.0
