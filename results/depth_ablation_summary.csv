@@ -1,0 +1,7 @@
+depth,condition,accuracy,precision,recall,f1_score
+1,Ideal finite-shot,1.0,1.0,1.0,1.0
+1,Medium noise,1.0,1.0,1.0,1.0
+2,Ideal finite-shot,1.0,1.0,1.0,1.0
+2,Medium noise,1.0,1.0,1.0,1.0
+3,Ideal finite-shot,1.0,1.0,1.0,1.0
+3,Medium noise,1.0,1.0,1.0,1.0

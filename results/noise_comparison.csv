@@ -1,0 +1,5 @@
+condition,accuracy,precision,recall,f1_score
+Ideal exact statevector,1.0,1.0,1.0,1.0
+Ideal finite-shot,1.0,1.0,1.0,1.0
+Low noise,1.0,1.0,1.0,1.0
+Medium noise,1.0,1.0,1.0,1.0
